@@ -1,3 +1,4 @@
 # capstone
-Capstone Project 
+Capstone Project.
+
 This project is currently ongoing. 
