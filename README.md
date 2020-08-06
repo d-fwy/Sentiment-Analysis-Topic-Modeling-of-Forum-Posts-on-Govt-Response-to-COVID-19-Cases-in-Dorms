@@ -26,9 +26,9 @@ A deployment model based on the Multinomial NB model was deployed on Heroku. It 
 After the sentiment of all posts were labelled, topic modeling was conducted for the negative and positive class posts to find out the key topics of both groups of posts. The Latent Dirichlet Allocation model with MALLET was used to identify the key topics. While coherence scores were a key consideration of which model to choose, the actual coherence and separation of topics were the key success metric when considering the best LDA model. 
 
 ### Contents
-- [1. Scraping of forum posts](./1_scraping_data)
+- [1. Scraping forum posts](./1_scraping_data)
 - [2. Data cleaning and EDA](./2_data_clean_eda)
-- [3. Labeling sentiment of forum posts](./3_sentiment_labeling_notebooks)
+- [3. Labeling sentiment of forum posts](./3_sentiment_labeling)
 - [4. Sentiment analysis](./4_sentiment_analysis)
 - [5. Topic modeling](./5_topic_modeling)
 - [6. Deployment model ](./6_deployment_model_predict_sentiment)
