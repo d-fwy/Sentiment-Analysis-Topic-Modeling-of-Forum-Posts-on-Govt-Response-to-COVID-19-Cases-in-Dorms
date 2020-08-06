@@ -55,24 +55,32 @@ The best model for topic modeling was the LDA model with MAchine Learning for La
 #### Negative sentiment posts 
 Topic 1: dormitory, government, operators, jo, pay, conditions, living, money, years, problem
 - highlighted government, dorm operators, "jo" which refers to Manpower Minister Josephine Teo as actors who did not perform well in response to "problem" (outbreak in dorms). Also highlighted "living", "conditions", "years" which refers to poor living conditions in dorms which have persisted for years
+
 Topic 2: dormitory, cases, covid, situation, fw, community, spread, home, case, end
 - highlighted that COVID cases/situation amongst foreign workers in dorms could lead to community spread
+
 Topic 3: mask, people, masks, singapore, pap, wear, blame, healthy, care, world
 - blamed the PAP (ruling party/government) for its delay in calling on people to wear masks in public
+
 Topic 4: workers, foreign, mom, pap, work, employers, worker, teo, covid, feb
 - highlighted key groups involved in this outbreak: foreign workers, employers, MOM (Min of Manpower), PAP (ruling party/government), "teo" (surname of Manpower Minister Josephine Teo). Also highlighting that the COVID-19 outbreak in dorms could have started in "feb" (February), but was detected much later in March
+
 Topic 5: government, time, sg, ministers, good, people, long, give, point, standard
 - could be alluding that the government/ministers are good, should be given more time to eradicate COVID-19 from dorms
 
 #### Positive sentiment posts 
 Topic 1: cases, community, numbers, dormitory, news, forum, big, spread, cb, world
 - highlighted high ("big") number of COVID-19 cases in dorms, potential for community spread and the circuit breaker ("cb")
+
 Topic 2: conditions, pay, migrant, thing, issue, country, cost, distancing, operators, singaporeans
 - highlighted poor conditions and pay of migrant workers, cost of distancing workers, responsibility of dorm operators ("operators")
+
 Topic 3: government, sg, high, citizens, companies, care, hard, day, agree, lot
 - pointed out that government cared for citizens and companies
+
 Topic 4: people, masks, time, mask, lockdown, weeks, home, hindsight, long, wearing
 - highlighted COVID-19 situation in Singapore - mask wearing, lockdown for weeks/long time, benefit of "hindsight"
+
 Topic 5: work, make, clusters, measures, start, point, days, making, made, life
 - highlighted clusters, possibly mentioned measures to stop spread
 
